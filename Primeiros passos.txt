@@ -1,0 +1,21 @@
+    PRIMEIROS PASSOS
+    
+    Ao inciar projetos com frameworks que utilizam JavaScript(Vue, React, Angular)
+sempre verificar o NPM(usando o comando NPM -V) e o NODE(utilizando o comando node -v) 
+ao verificar e notar que suas versões são atuais e LTS, poderemos dar inicio ao projeto.
+
+    Nesse projeto estaremos estuando Angular, logo precisaremos utilizar algumas instancias para iniciar
+o nosso projeto, seguindo o passo a passo a baixo poderemos dar nossos primeiros passos para iniciar e 
+prosseguir com o projeto.
+
+    Guia inicial
+
+
+    1-Como dito acima estaremos fazendo a instalação do NODE(https://nodejs.org/en), após instalação
+também instalaremos o NPM (npm install -g npm) poderemos usar esse comando no Console(sempre lembrando
+sempre de utilizar o CMD com permissão de administrador) apos a instalação de NODE e NPM, iremos fazer 
+a conferencia de versões para conferir se tudo foi instalado corretamente Node (node -v) e Npm (npm -v)
+ambos no console com permissão de administrador ao verificar e estar tudo correto prossiga para os passos
+abaixo
+
+    OBS: Caso alguma instalação de algum erro (Bastante raro, mas pode acontecer)   
